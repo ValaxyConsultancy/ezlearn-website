@@ -1,1 +1,1 @@
-# ezlearn-website
+# e-zlearnwebsite
